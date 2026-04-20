@@ -1,4 +1,7 @@
-# MaBeee Control_Eye Control App
+# MaBeee_Eye Control App
+
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 概要
 視線入力（アイトラッキング）やマウス操作などを利用して、乾電池型IoTデバイス「MaBeee（マビー）」をBluetooth経由で手軽にコントロールするWindows向けアプリケーションです。
