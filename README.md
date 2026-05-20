@@ -1,7 +1,7 @@
-# MaBeee Control Eye （視線入力に対応したMaBeee制御アプリ）
+# MaBeee Control Eyeアプリ（視線入力に対応したMaBeee制御アプリ）
 
 ## 概要
-視線入力（アイトラッキング）やマウス操作などを利用して、乾電池型IoTデバイス「MaBeee（マビー）」をBluetooth経由で手軽にコントロールするWindows向けアプリケーションです。
+視線入力（Eye Tracking）やマウス操作などを利用して、乾電池型IoTデバイス「MaBeee（マビー）」をBluetooth経由で手軽にコントロールするWindows向けアプリケーションです。
 Tobii Eye Tracker 5などを利用した視線入力やマウス操作で、単3形以上の乾電池を電源とするオモチャなどを簡単に動かすことができます。
 
 ## 特徴
